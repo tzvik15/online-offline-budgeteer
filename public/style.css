@@ -1,0 +1,19 @@
+html {
+    background-color: aquamarine;
+    color:red;
+}
+#root {
+    position: absolute;
+    top:200px;
+    left:500px;
+}
+#add {
+    background-color: rgb(56, 157, 175);
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+}
+#subtract {
+    background-color: tomato;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+}
